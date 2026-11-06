@@ -76,8 +76,8 @@
 ### 📊 GitHub stats & analysis
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FrancisMutua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisMutua&layout=pie&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrancisMutua&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrancisMutua&theme=tokyonight&utcOffset=3" />
 </p>
 
 <p align="center">
